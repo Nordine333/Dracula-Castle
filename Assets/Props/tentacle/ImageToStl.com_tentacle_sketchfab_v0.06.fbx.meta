@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 55bfd13ca8decfb48b3ee027ad82c553
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5555946877669937462
+    second: main.path.control|main.path.control.001Action
+  - first:
+      74: 6521035244035526764
+    second: main.path.control|main.path.control.002Action
+  - first:
+      74: 5949047515153281928
+    second: main.path.control|main.path.controlAction
+  - first:
+      74: 1101108508864682376
+    second: main.path.control|tentacle.moveAction
+  - first:
+      74: 8823459374510609175
+    second: main.path.control|tentacle.rotateAction
+  - first:
+      74: 1326462176011173159
+    second: main.path.control.002|main.path.control.001Action
+  - first:
+      74: 26660361305733476
+    second: main.path.control.002|main.path.control.002Action
+  - first:
+      74: -3635798873665716483
+    second: main.path.control.002|main.path.controlAction
+  - first:
+      74: -2505603788549067827
+    second: main.path.control.002|tentacle.moveAction
+  - first:
+      74: 3303747687580021909
+    second: main.path.control.002|tentacle.rotateAction
+  - first:
+      74: -7887539316704411411
+    second: main.path.control.001|main.path.control.001Action
+  - first:
+      74: 7108545130789774420
+    second: main.path.control.001|main.path.control.002Action
+  - first:
+      74: -5020622061275576248
+    second: main.path.control.001|main.path.controlAction
+  - first:
+      74: -5605340576406343217
+    second: main.path.control.001|tentacle.moveAction
+  - first:
+      74: -209386862963429780
+    second: main.path.control.001|tentacle.rotateAction
+  - first:
+      74: 752605784018747062
+    second: tentacle.move|main.path.control.001Action
+  - first:
+      74: -5816758750989665505
+    second: tentacle.move|main.path.control.002Action
+  - first:
+      74: 4732795048779111241
+    second: tentacle.move|main.path.controlAction
+  - first:
+      74: 6510562022525501491
+    second: tentacle.move|tentacle.moveAction
+  - first:
+      74: -9015172832239346207
+    second: tentacle.move|tentacle.rotateAction
+  - first:
+      74: 4186898486734037897
+    second: tentacle.rotate|main.path.control.001Action
+  - first:
+      74: -1856612951112048307
+    second: tentacle.rotate|main.path.control.002Action
+  - first:
+      74: 8394777530241323236
+    second: tentacle.rotate|main.path.controlAction
+  - first:
+      74: -3361813482678729196
+    second: tentacle.rotate|tentacle.moveAction
+  - first:
+      74: 6460082245384292376
+    second: tentacle.rotate|tentacle.rotateAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
